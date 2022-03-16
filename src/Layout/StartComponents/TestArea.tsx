@@ -26,7 +26,7 @@ const TestArea: React.FC<Props> = (props) => {
     handleKeyDown,
   } = props;
   return (
-    <Card className="m-5 col-12 col-md-4 align-middle">
+    <Card className="m-5 col-10 col-md-8 col-lg-6 align-middle">
       <div
         style={{
           background: "white",
